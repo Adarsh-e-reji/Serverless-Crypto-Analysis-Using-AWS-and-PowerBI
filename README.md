@@ -102,8 +102,5 @@ Power BI connects to Athena using the ODBC driver authenticated via IAM credenti
 * Connect Amazon QuickSight for real-time dashboards.
 * Explore larger datasets in Amazon Redshift.
 
----
 
-## 👨‍💻 Author
 
-Adarsh
